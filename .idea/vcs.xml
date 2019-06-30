@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/BasicApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChatMessageView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Clabysh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DivingUniverse-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EasySit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Eye/EyeTracker_native_Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EyeTracker_native_Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVPLab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Meeter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ParseWebSite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PozitiveFM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TimerApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/absoft-app-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/absoft-app-android_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/blokada" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/friendc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/geekinformer-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jdy-08-io-ctrl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mobile_ma_android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mobile_ma_android/readium-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mobile_ma_android/readium-shared-js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mobile_ma_android/readium-shared-js/readium-cfi-js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/phototime" vcs="Git" />
+  </component>
+</project>
